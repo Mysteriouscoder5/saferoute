@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "185219767165",
+    "project_id": "fireapp-f19e0",
+    "storage_bucket": "fireapp-f19e0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:185219767165:android:7d30163dfe5f82159e8a14",
+        "android_client_info": {
+          "package_name": "com.atharva5.fireapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD00HsL9IHqEA0Tqetu-SEgilCggy_rcSw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
