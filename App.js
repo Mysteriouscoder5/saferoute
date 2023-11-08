@@ -77,6 +77,7 @@ export default function App() {
     <Provider store={store}>
       <PersistGate loading={null} persistor={persistor}>
         <RootNavigation />
+        <StatusBar style="light" />
       </PersistGate>
     </Provider>
   );
